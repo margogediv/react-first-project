@@ -5,7 +5,7 @@ import Posts from "./Post/Posts";
 const MyPosts = () => {
     return <div>
         <div>
-          My posts
+          My posts 2
           <div>
             New posts
           </div>
